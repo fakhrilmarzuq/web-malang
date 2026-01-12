@@ -1,0 +1,481 @@
+.head{
+    background-color:rgb(64, 109, 132) ;
+    display: flex;
+    flex-direction: row;
+}
+
+.dolan{
+    color: wheat;
+    padding: 0 600px 0 33px;
+    margin-top: 18px;
+    font-size: 33px;
+}
+
+.link{
+    text-decoration: none;
+    margin: 33px 30px 33px 0px;
+    color:bisque ;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.gambar{
+    background-image: url(Kota-Malang-Surga-Wisata-Alam-dan-Kuliner-yang-Memikat-1.webp);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.teks{
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 100px;
+}
+
+.teks1{
+    font-size: 60px;
+}
+
+.teks2{
+    align-items: center;
+    color: rgb(1, 39, 255);
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: center;
+}
+
+.teks3{
+    color: rgb(179, 145, 82);
+    padding: 0 100px;
+    font-size: 30px;
+}
+
+.gambar1{
+    background-image: url(balekambang.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    margin: 66px 70px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.teks4{
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.gambar2{
+    background-image: url(cb.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    margin: 66px 70px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.gambar3{
+     background-image: url(gunung.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    margin: 66px 70px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.gambar4{
+     background-image: url(13.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    margin: 66px 70px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.samping{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer{
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    color: wheat;
+    padding: 17px 44px 27px 19px;
+    margin-top: 88px;
+   
+}
+
+.fotopantai{
+    background-image: url(Pantai-Teluk-Asmara-Malang.width-800.format-webp.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambarpantai{
+     background-image: url(Pantai-Wonogoro.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.samping1{
+    display: flex;
+    flex-direction:row ;
+    margin: 50px 0 0 250px;
+}
+
+.teks5{
+    color: rgb(73, 70, 182);
+    margin-top: -5px;
+    padding: 9px;
+}
+
+.teks6{
+    color:grey;
+    margin-top: -5px;
+    padding: 9px;
+}
+
+.footer1{
+    padding: 6p 40px 0 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.border{
+    border: 2px solid black;
+    background-color: rgba(37, 152, 138, 0.441);
+    border-radius: 6px;
+    width: 776px;
+    display: flex;
+    flex-direction: row;
+}
+
+.samping2{
+    display: flex;
+    flex-direction: column;
+}
+
+.border1{
+   padding: 0 19px 0 0;
+}
+
+.gambarpantai1{
+     background-image: url(pantai-tiga-warna.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.gambarpantai2{
+      background-image: url(pantai-ngliyep.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.gambarcafe{
+    background-image: url(cb.copy.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambarcafe1{
+     background-image: url(cb.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.pinggiran{
+    margin-top: -9px;
+}
+
+.gambarcafe2{
+     background-image: url(now\ here\ copy.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.gambarcafe3{
+     background-image: url(semusim-cafe-malang.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.gambargunung{
+    background-image: url(1.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambargunung1{
+     background-image: url(arjuno.1.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.gambargunung2{
+     background-image: url(bromo.1.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.gambargunung3{
+     background-image: url(semeru.1.jpg);
+    width: 18.2%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+}
+
+.background{
+    background-color: rgba(62, 150, 150, 0.422);
+    background-blend-mode: multiply;
+    width: 100%;
+    height: 100px;
+}
+
+.teks7{
+    align-items: center;
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.gambar5{
+    background-image: url(4.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.margin{
+    margin:19px 200px 16px 200px;
+}
+
+.gambar6{
+    background-image: url(5.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambar7{
+    background-image: url(6.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambar8{
+    background-image: url(6\ copy.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambar9{
+    background-image: url(7.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambar10{
+    background-image: url(8.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambar11{
+    background-image: url(9.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambar12{
+    background-image: url(10.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+.gambar13{
+    background-image: url(cb.copy.jpg);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px 300px;
+    border-radius: 15px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button{
+    border: 0px;
+    background-color: blue;
+    width:233px ;
+    height: 37px;
+    align-items: center;
+    font-size: 18px;
+    border-radius: 7px;
+    color: white;
+    margin-top: 77px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
